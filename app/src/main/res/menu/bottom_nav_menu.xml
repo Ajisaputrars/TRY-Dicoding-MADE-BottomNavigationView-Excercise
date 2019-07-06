@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_recents"
+        android:enabled="true"
+        android:title="Recents"
+        android:icon="@drawable/television"/>
+    <item
+        android:id="@+id/action_favorites"
+        android:enabled="true"
+        android:title="Favorites"
+        android:icon="@drawable/clapperboard"/>
+
+    <item
+        android:id="@+id/action_favorites2"
+        android:enabled="true"
+        android:title="Favorites"
+        android:icon="@drawable/clapperboard"/>
+
+    <item
+        android:id="@+id/action_favorite3"
+        android:enabled="true"
+        android:title="Favorites"
+        android:icon="@drawable/clapperboard"/>
+</menu>
